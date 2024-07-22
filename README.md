@@ -41,4 +41,7 @@ Autenticação com Spring Security!😉
 
 - Para executar a aplicação, basta invocar o Maven com mvn spring-boot:run
 
----
+Exige uma autenticação Basic Auth com:
+
+- Username: testando
+- Password: 123456
